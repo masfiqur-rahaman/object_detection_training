@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dataset2</folder>
+	<filename>1581212842.772803.jpg</filename>
+	<path>C:\Users\Masfiq\Documents\Thesis\Ship human counting\labeling\dataset2\1581212842.772803.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1343</xmin>
+			<ymin>502</ymin>
+			<xmax>1541</xmax>
+			<ymax>900</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>839</xmin>
+			<ymin>1</ymin>
+			<xmax>988</xmax>
+			<ymax>189</ymax>
+		</bndbox>
+	</object>
+</annotation>
