@@ -1,0 +1,38 @@
+<annotation>
+	<folder>banglamotor_d</folder>
+	<filename>banglamotor_d_1557069901.jpg</filename>
+	<path>C:\Users\Masfiq\odrive\Google Drive\Thesis\DhakaSim Data Labeling\data\images\banglamotor_d\banglamotor_d_1557069901.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>slow_out</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>378</xmin>
+			<ymin>142</ymin>
+			<xmax>445</xmax>
+			<ymax>213</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>slow_in</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1026</xmin>
+			<ymin>273</ymin>
+			<xmax>1083</xmax>
+			<ymax>321</ymax>
+		</bndbox>
+	</object>
+</annotation>
