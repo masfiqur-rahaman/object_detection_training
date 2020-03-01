@@ -1,7 +1,7 @@
 <annotation>
-	<folder>banglamotor_d</folder>
+	<folder>dataset</folder>
 	<filename>banglamotor_d_1557070064.jpg</filename>
-	<path>C:\Users\Masfiq\odrive\Google Drive\Thesis\DhakaSim Data Labeling\data\images\banglamotor_d\banglamotor_d_1557070064.jpg</path>
+	<path>C:\Users\Masfiq\Documents\Thesis\DhakaSim Data Labeling\dataset preparaton\dataset\banglamotor_d_1557070064.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -245,9 +245,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>462</xmin>
+			<xmin>463</xmin>
 			<ymin>190</ymin>
-			<xmax>616</xmax>
+			<xmax>617</xmax>
 			<ymax>291</ymax>
 		</bndbox>
 	</object>
